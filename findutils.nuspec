@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>findutils</id>
+    <version>4.2304</version>
+    <title>GNU findutils</title>
+    <authors>The GNU Project</authors>
+    <owners>The GNU Project</owners>
+    <projectUrl>https://www.gnu.org/software/findutils/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>GNU findutils</description>
+    <summary />
+    <releaseNotes />
+    <copyright />
+    <tags>gnu findutils find locate updatedb xargs</tags>
+  </metadata>
+</package>

@@ -1,0 +1,4 @@
+.vscode
+
+# choco pack output file
+*.nupkg
