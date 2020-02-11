@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>findutils</id>
-    <version>4.2304</version>
+    <version>4.2.30.5</version>
     <title>GNU findutils</title>
     <authors>The GNU Project</authors>
     <owners>The GNU Project</owners>
