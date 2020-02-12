@@ -14,4 +14,7 @@
     <copyright />
     <tags>gnu findutils find locate updatedb xargs</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
