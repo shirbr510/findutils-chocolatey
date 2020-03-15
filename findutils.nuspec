@@ -5,13 +5,13 @@
     <version>4.2.30.5</version>
     <title>GNU findutils</title>
     <authors>The GNU Project</authors>
-    <owners>The GNU Project</owners>
+    <owners>shirbr510</owners>
     <projectUrl>https://www.gnu.org/software/findutils/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>GNU findutils</description>
-    <summary />
+    <description>This is part of the GNU everywhere initiative. you can find out more about this project @ https://github.com/shirbr510/findutils-chocolatey</description>
+    <summary>A Chocolatey Redistribution of GNU findutils</summary>
     <releaseNotes />
-    <copyright />
+    <copyright>FSF (2020), GNU (2020), Richard Stallman (1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, 2015, 2017, 2018)</copyright>
     <tags>gnu findutils find locate updatedb xargs</tags>
   </metadata>
   <files>
