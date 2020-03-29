@@ -1,4 +1,5 @@
 # findutils-chocolatey
+![Chocolatey Version](https://img.shields.io/chocolatey/v/findutils)
 
 A Chocolatey Redistribution of GNU findutils
 
@@ -10,13 +11,13 @@ I was inspired by the efforts of [xoviat](https://chocolatey.org/profiles/xoviat
 
 This is based on the same source that [xoviat](https://chocolatey.org/profiles/xoviat) uses.
 
-## Current Status
+## History
 
-There was a previous attempt on February 2019 to do this project, but the project was using a different distro that was not tested and required additional compilation.
+ February 2019: There was a previous attempt to do this project, but the project was using a different distro that was not tested and required additional compilation.
 
-I was able to remove the previous version using chocolatey's moderators 🎉
+February 2020: I was able to remove the previous version using chocolatey's moderators 🎉
 
-Currently working on pushing version [4.2.30.5](https://chocolatey.org/packages/findutils/https://chocolatey.org/packages/findutils/4.2.30.5/) to chocolatey
+March 2020: Published Version [4.2.30.5](https://chocolatey.org/packages/findutils/https://chocolatey.org/packages/findutils/4.2.30.5/) 🎉
 
 ## Install
 
